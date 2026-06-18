@@ -1,1 +1,4 @@
 Hello A
+New line in a
+New line in a
+New line in a
