@@ -1,5 +1,7 @@
 #!/bin/bash
 
-echo $UNDEFINED_VARIABLE#!/bin/bash
+NAME="Dharshan"
+echo "$NAME"#!/bin/bash
+
 
 
